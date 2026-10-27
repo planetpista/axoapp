@@ -1,0 +1,2 @@
+[functions.paypal-verify]
+verify_jwt = true

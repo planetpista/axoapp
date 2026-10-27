@@ -1,0 +1,9 @@
+{
+  "projectId": "59649320",
+  "functions": {
+    "paypal-verify": {
+      "hasChanged": false,
+      "hash": "be6008c212e403ffa4cd4656575736132fceeaa3a27af6ea6d04ccd2234191d6"
+    }
+  }
+}
